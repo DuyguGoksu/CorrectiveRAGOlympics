@@ -2,7 +2,7 @@
 Welcome to the Corrective RAG Model GitHub repository, designed to answer questions related to the Paris 2024 Olympics. This project leverages the GPT-3.5-turbo model via API calls to OpenAI and uses a Corrective Retrieval-Augmented Generation (CRAG) approach to enhance the accuracy and relevance of responses.
 
 ## Project Overview
-This repository contains code and resources for a Corrective RAG model that retrieves and generates answers about the Paris 2024 Olympics. The model is designed to provide precise and up-to-date information by retrieving data from relevant sources before generating a response.
+The model is designed to provide precise and up-to-date information by retrieving data from relevant sources before generating a response.
 
 Here are the sources:
 

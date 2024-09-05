@@ -12,4 +12,4 @@ Here are the sources:
 
 If any of the documents retrieved are irrelevant to the question, the model performs a web search using Tavily Search.
 
-The implementation of the Corrective RAG model in this project is based on the example provided by LangChain. You can find the reference code [here](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag.ipynb)
+The implementation of the Corrective RAG model in this project is based on the example provided by LangChain. You can find the reference code [here](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag.ipynb).
